@@ -56,7 +56,7 @@ To make the dataset analysis ready, the following cleaning steps were required:
 ### Notable Findings
 **1. Payroll expanded steadily over time**
 
-Average compensation increased across the 2011 – 2018 period, indicating continued payroll growth and a rising cost base for the city.
+Average compensation increased across the 2011 - 2018 period, indicating continued payroll growth and a rising cost base for the city.
 
 **2. Base pay is the core driver of compensation**
 
